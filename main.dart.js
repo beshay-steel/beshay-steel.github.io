@@ -8559,7 +8559,7 @@ s=3
 return P.N(k.cB(0,"fonts/Hacen2.ttf"),$async$pk)
 case 3:j=c
 s=4
-return P.N(k.cB(0,"fonts/ll.ttf"),$async$pk)
+return P.N(k.cB(0,"fonts/cc.ttf"),$async$pk)
 case 4:i=J
 h=J
 s=5
