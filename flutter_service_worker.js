@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "favicon.png": "107a9e1198486c8ded5da70ef4975ea5",
 "manifest.json": "bb8ec6f391223ec0b7e6aa77b2a4f2ec",
-"main.dart.js": "abf178f23b9eee5378ddaf31eea77a28",
+"main.dart.js": "9bc2573c76fb8639eda78fcda57ff9c1",
 "assets/FontManifest.json": "04fc713bd03eae239e8910bdc1e033f6",
 "assets/AssetManifest.json": "5548bf38c140681861c897d9e1c2d4a7",
 "assets/fonts/Hacen.ttf": "ff0131af4e51059f7252f9d17bed1060",
@@ -61,8 +61,8 @@ const RESOURCES = {
 "assets/assets/bola.png": "ad15d547d9be46867ff7fd1cb883fa90",
 "assets/assets/logo2.png": "d1fe041c8fc721d3acf6db0e4cc298f0",
 "assets/NOTICES": "4ba1aae955e050fc61f130014b908d4a",
-"index.html": "d9b9d3fcd44d62e412ba2830839c671f",
-"/": "d9b9d3fcd44d62e412ba2830839c671f",
+"index.html": "083ccf0d8caca3803f97dfb0d825eba9",
+"/": "083ccf0d8caca3803f97dfb0d825eba9",
 "version.json": "363cdae49fbd901038074d0f67a711c0",
 "icons/Icon-192.png": "0d069683bd629ee660f47dfba26783ff",
 "icons/Icon-512.png": "107a9e1198486c8ded5da70ef4975ea5"
